@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20230831_Daum</folder>
+	<filename>4c7f46b5329dd00a07c6eb3a7b745050.jpg</filename>
+	<path>/Users/kwontaewoong/tireApp/tireImage/20230831_Daum/4c7f46b5329dd00a07c6eb3a7b745050.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>656</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>middle_condition</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>110</ymin>
+			<xmax>361</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

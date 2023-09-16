@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20230831_Daum</folder>
+	<filename>6d7f82d917faeced2102688a727c09df.jpg</filename>
+	<path>/Users/kwontaewoong/tireApp/tireImage/20230831_Daum/6d7f82d917faeced2102688a727c09df.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>656</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bad_condition</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>111</ymin>
+			<xmax>608</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>
